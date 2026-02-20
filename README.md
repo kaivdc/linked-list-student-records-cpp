@@ -4,3 +4,4 @@ A C++ implementation of linked lists for a student records system with multiple 
  - Understanding of Data Structures
  - Error-handling and edge case resolution skills
  - File functionality
+Completed in Visual Studio Code, Simply runnable by downloading the executable and creating any required files via prompting within the console while code is running.
